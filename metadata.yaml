@@ -1,0 +1,33 @@
+_repo: La-Montarinola-poemaro-pri-Veslemey_24292
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tangerud, Odd
+    gutenberg_agent_id: '8417'
+    url: http://www.gutenberg.org/2009/agents/8417
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garborg, Arne
+    birthdate: 1851
+    deathdate: 1924
+    gutenberg_agent_id: '8538'
+    url: http://www.gutenberg.org/2009/agents/8538
+    wikipedia: http://en.wikipedia.org/wiki/Arne_Garborg
+description: 'Translation of: Haugtussa'
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24292'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+title: 'La Montarino: la poemaro pri Veslemey'
+url: http://www.gutenberg.org/ebooks/24292
